@@ -1,4 +1,4 @@
-###### Trabalho da Faculdade QI -> Lista de Tarefas ######
+# Trabalho da Faculdade QI -> Lista de Tarefas
 
 ## Sobre:
 Este projeto é uma ferramenta simples para organizar suas tarefas diárias.
